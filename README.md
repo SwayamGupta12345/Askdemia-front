@@ -11,7 +11,7 @@
 - ✅ Personalized work plans and productivity insights  
 
 ## 🛠️ Tech Stack
-
+- **Frontend:** NextJS + Typescript  
 - **Backend:** Python + FastAPI  
 - **AI Engine:** CrewAI + Custom Agents  
 - **LLM Integration:** Gemini  
