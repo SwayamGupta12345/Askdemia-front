@@ -49,7 +49,7 @@ export default function LoginForm() {
         </Alert>
       )}
 
-      <TextField
+      <TextField supressHydrationWarning
         margin="normal"
         required
         fullWidth
@@ -74,7 +74,6 @@ export default function LoginForm() {
             },
           },
         }}
-        
       />
 
       <TextField
