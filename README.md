@@ -2,12 +2,12 @@
 
 **Askdemia** is an academic-focused AI assistant built using **CrewAI** and intelligent autonomous agents. Designed to simplify learning and boost productivity, Askdemia helps users manage schedules, get quick answers to academic queries, and organize tasks through a natural, conversational interface.
 
-## 🚀 Features 
+## 🚀 Features
 
 - 🤖 Powered by CrewAI and multi-agent architecture  
 - 💬 Conversational academic assistant  
-- 📅 Smart schedule management   
-- 📚 Academic Q&A for student support    
+- 📅 Smart schedule management  
+- 📚 Academic Q&A for student support  
 - ✅ Personalized work plans and productivity insights  
 
 ## 🛠️ Tech Stack
@@ -19,7 +19,7 @@
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/rishugoyal805/askdemia.git
+git clone https://github.com/yourusername/askdemia.git
 cd askdemia
 pip install -r requirements.txt
 ```
@@ -38,5 +38,5 @@ uvicorn backend:app --reload
 
 ## 🙋‍♂️ Author
 
-Made with 💙 by [Rishu Goyal](https://github.com/rishugoyal805)
+Made with 💙 by [Swayam Gupta](https://github.com/Swayam-Gupta)
  
